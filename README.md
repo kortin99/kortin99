@@ -14,7 +14,7 @@ I am a software developer living in Suzhou, currently working as a front-end dev
 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kortin99&show_icons=true&theme=tokyonight" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=kortin99&show_icons=true&theme=tokyonight" /> -->
 
 除此之外，我也喜欢指导和帮助新入行的伙伴👨🏻‍💻。热衷于探索和分享新鲜事物 🕸️。
 
@@ -61,7 +61,9 @@ To learn together about front-end, back-end, AI, English, and Japanese, please c
 
 <br/>
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kortin99#pic_left)](https://github.com/kortin99)
 ![Kortin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kortin99&show_icons=true&theme=tokyonight#pic_right)
+-->
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
