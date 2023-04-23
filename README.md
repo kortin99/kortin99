@@ -4,7 +4,7 @@
 
 ### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=kortin99.kortin99)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kortin99" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kortin99&show_icons=true&theme=tokyonight" />
 
 我是一名base苏州的软件开发者，目前在一家互联网公司从事前端开发的工作 🤓.
 
