@@ -2,9 +2,9 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi)
+### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=kortin99.kortin99)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kortin99#pic_right)](https://github.com/kortin99)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kortin99" />
 
 我是一名base苏州的软件开发者，目前在一家互联网公司从事前端开发的工作 🤓.
 
@@ -14,7 +14,7 @@ I am a software developer living in Suzhou, currently working as a front-end dev
 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
-![Kortin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kortin99&show_icons=true&theme=tokyonight#pic_left)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kortin99&show_icons=true&theme=tokyonight" />
 
 除此之外，我也喜欢指导和帮助新入行的伙伴👨🏻‍💻。热衷于探索和分享新鲜事物 🕸️。
 
