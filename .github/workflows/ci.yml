@@ -16,8 +16,8 @@ jobs:
 
       - name: Check Status
         run: |
-          git config --local user.email "kortin1999@outlook.com"
-          git config --local user.name "kortin"
+          git config --local user.email "1344299971@qq.com.com"
+          git config --local user.name "kortin.zhou"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
           git commit --allow-empty -m "ci: check status"
