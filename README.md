@@ -118,7 +118,7 @@ To learn together about front-end, back-end, AI, English, and Japanese, please c
 - 🔭 I’m currently working on Vue, React, Node.js, Express.js, Go, Flutter, etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript.
-- 📫 How to reach me: [hi@kortin.cn](mailto:hi@kortin.cn?Subject=Hello%20Kortin) | [kortin.cn](https://me.kortin.cn) 👨‍💻
+- 📫 How to reach me: [hi@kortin.cn](mailto:hi@kortin.cn?Subject=Hello%20Kortin) | [kortin.me](https://kortin.me) 👨‍💻
 - 💻 I have worked on C, Java, HTML/CSS, Javascript, Vue, React, Node.js, Express.js, MySQL, MongoDB, Git, Docker, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣.
