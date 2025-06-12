@@ -109,11 +109,11 @@ To learn together about front-end, back-end, AI, English, and Japanese, please c
 
 ## More about me...
 
-- 🔭 I’m currently working on Vue, React, Node.js, Next.js, TailwindCSS, Go, Flutter, etc 💻.
-- 💻 I have worked on C, Java Spring Boot, Koa.js, MySQL, MongoDB, Git, Docker, etc.
-- 🌱 I’m currently learning Full Stack Development 🚀.
-- 👯 I’m looking to collaborate on any Open Source Project involving Javascript.
+- 🔭 I’m currently working on React, Vue, Next.js, TailwindCSS, Node.js, Go, Git etc 💻.
+- 💻 I have worked on C, Java Spring Boot, Koa.js, Angular, MySQL, MongoDB, Docker, Flutter etc.
+- 🌱 I’m currently learning AI and Full Stack Development 🚀.
+- 👯 I’m looking to collaborate on any Open Source Project involving TypeScript.
 - 📫 How to reach me: [hi@kortin.cn](mailto:hi@kortin.cn?Subject=Ask%20about%20...) | [kortin.me](https://kortin.me) 👨‍💻
-- 💬 Ask me about anything!
+- 💬 Feel free to ask me anything!
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣.
 
