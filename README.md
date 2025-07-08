@@ -5,9 +5,9 @@
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=kortin99&show_icons=true&theme=tokyonight" /> -->
 
-我是一名base苏州的软件开发者，目前在一家互联网公司从事前端开发的工作 🤓.
+我是一名软件开发者，目前在一家互联网公司从事前端开发的工作 🤓.
 
-I am a software developer living in Suzhou, currently working as a front-end developer in an internet company 🤓.
+I am a software developer, currently working as a front-end developer in an internet company 🤓.
 
 我是一个充满热情的学习者，总是愿意跨技术和跨领域学习和工作💡。我喜欢探索新技术并利用它们来解决现实生活中的问题✨。
 
