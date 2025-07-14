@@ -15,7 +15,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 如果你也对Web开发、前后端、AI、英语、日语等感兴趣，建立学习小组，可以通过下面的方式联系我。
 
-To learn together about front-end, back-end, AI, English, and Japanese, please contact me through the following ways.
+To learn together about front-end, back-end, AI, Chinese, and Japanese, please contact me through the following ways.
 
 <img src="assets/activity-profile.png" />
 
